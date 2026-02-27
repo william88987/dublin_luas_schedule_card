@@ -29,4 +29,6 @@ entity: sensor.luas_<stop_name>
 ```
 ![add_luas_card.png](screen-shots/add_luas_card.png)
 
+![add_luas_card_2.png](screen-shots/add_luas_card_2.png)
+
 ![custom-luas-schedule-card.png](screen-shots/custom-luas-schedule-card.png)
