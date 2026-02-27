@@ -27,5 +27,6 @@ Use the card in your dashboard as follows:
 type: custom:luas-schedule-card
 entity: sensor.luas_<stop_name>
 ```
+![add_luas_card.png](screen-shots/add_luas_card.png)
 
 ![custom-luas-schedule-card.png](screen-shots/custom-luas-schedule-card.png)
