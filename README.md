@@ -8,7 +8,7 @@ This is a custom Lovelace card for Home Assistant, designed to work seamlessly w
 2. Go to HACS -> Frontend.
 3. Add this repository as a custom repository (Category: Lovelace).
 4. Install "Dublin Luas Schedule Card".
-5. Add the resource `/hacsfiles/dublin_luas_schedule_card/luas-schedule-card.js` to your Lovelace configuration.
+5. HACS will automatically add the resource to your Lovelace configuration. *Note: You may need to refresh your browser page or clear your cache for the card to show up in the card picker.*
 
 ## Manual Installation
 
